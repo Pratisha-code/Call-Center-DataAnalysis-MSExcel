@@ -7,21 +7,35 @@ To analyze call center performance data and identify trends, customer satisfacti
 ## Dataset
 
 The dataset contains call center records,
-employee_id
-emp_name
-call_date
-working_hours
-work_efficiency
-total_break_taken_minutes
-calls_attended
-active_with_customer_minutes
-lunch_minutes
-normal_break_minutes
-feedback_score
-training_minutes
-meeting_minutes
-unwanted_break_minutes
-other_work_minutes
+- employee_id
+  
+- emp_name
+ 
+- call_date
+ 
+- working_hours
+ 
+- work_efficiency
+ 
+- total_break_taken_minutes
+
+- calls_attended
+
+- active_with_customer_minutes
+
+- lunch_minutes
+
+- normal_break_minutes
+
+- feedback_score
+
+- training_minutes
+
+- meeting_minutes
+
+- unwanted_break_minutes
+
+- other_work_minutes
 
 
 
@@ -39,17 +53,17 @@ Data Visualization
 
 ## Methods
 
-Cleaned and prepared the dataset in Excel by handling missing values, duplicates, and inconsistent data.
+- Cleaned and prepared the dataset in Excel by handling missing values, duplicates, and inconsistent data.
 
-Used Pivot Tables in Excel to perform exploratory data analysis.
+- Used Pivot Tables in Excel to perform exploratory data analysis.
 
-Identified key performance metrics and trends.
+- Identified key performance metrics and trends.
 
-Created interactive dashboards in Power BI for data visualization and reporting.
+- Created interactive dashboards in Power BI for data visualization and reporting.
 
 ## Key Insights
 
-Identified peak call hours and busiest days.
+- Identified peak call hours and busiest days.
 
 Analyzed agent performance and call handling efficiency.
 
