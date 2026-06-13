@@ -22,29 +22,41 @@ training_minutes
 meeting_minutes
 unwanted_break_minutes
 other_work_minutes
-<img width="81" height="361" alt="image" src="https://github.com/user-attachments/assets/0f8119a8-39c6-4a53-aec4-c7e098043c03" />
+
+
 
 ## Tools and Technologies
 
 Microsoft Excel
+
 Power BI
+
 Pivot Tables
+
 Data Cleaning Techniques
+
 Data Visualization
 
 ## Methods
 
 Cleaned and prepared the dataset in Excel by handling missing values, duplicates, and inconsistent data.
+
 Used Pivot Tables in Excel to perform exploratory data analysis.
+
 Identified key performance metrics and trends.
+
 Created interactive dashboards in Power BI for data visualization and reporting.
 
 ## Key Insights
 
 Identified peak call hours and busiest days.
+
 Analyzed agent performance and call handling efficiency.
+
 Measured customer satisfaction trends.
+
 Found factors affecting call resolution rates.
+
 Highlighted areas requiring operational improvement.
 
 ## Dashboard
@@ -57,10 +69,19 @@ The analysis provided valuable insights into call center operations, helping ide
 ## Future Work
 
 Implement predictive analytics for call volume forecasting.
+
 Develop machine learning models to predict customer satisfaction.
+
 Integrate real-time data sources for live monitoring.
+
 Enhance dashboard interactivity with advanced analytics.
 
 ## Author and Contact
 
+Author: Pratisha Biswal
 
+Project: Call Center Performance Analysis
+
+Email: pratishabiswal@gmail.com
+
+GitHub: https://github.com/Pratisha-code
