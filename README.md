@@ -6,7 +6,7 @@ To analyze call center performance data and identify trends, customer satisfacti
 
 ## Dataset
 
-I uesed  the dataset call_center_dataset_1000.csv
+I uesed  the dataset call_center_dataset_1000.csv.
 The dataset contains call center records,
 - employee_id
   
